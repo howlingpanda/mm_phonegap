@@ -1,7 +1,7 @@
 {
-    "app_id" : "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
-    "desktopappname": "Moodle Desktop",
+    "app_id" : "com.lutanedukasi.000",
+    "appname": "Custom MM",
+    "desktopappname": "Custom MM",
     "versioncode" : "2020",
     "versionname" : "custom_mm_00",
     "cache_expiration_time" : 300000,
